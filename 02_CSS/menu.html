@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      a {
+        text-decoration: none;
+      }
+      ul.menu {
+        background-color: seagreen;
+        padding-left: 0px;
+        width: 600px;
+        margin: 5px auto;
+        text-align: center;
+        box-shadow: -10px 10px gray;
+      }
+
+      ul.menu li {
+        list-style-type: none;
+        display: inline;
+        margin: 5px 10px;
+        border-radius: 5px;
+      }
+      ul.menu > li:hover {
+        /* color: white; 글자색 변형X a가 글자색을 바꿈 */
+        background: black;
+      }
+
+      .menu > li:hover > a {
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <ul class="menu">
+      <li>
+        <a href="page4.html">회원가입</a>
+      </li>
+      <li>
+        <a href="page5.html">제품정보</a>
+      </li>
+      <li>
+        <a href="page6.html">게시판</a>
+      </li>
+      <li>
+        <a href="page7.html">장바구니</a>
+      </li>
+    </ul>
+
+    <ul>
+      <li>
+        <a href="#">홍차</a>
+      </li>
+      <li>
+        <a href="#">블랙티</a>
+      </li>
+      <li>
+        <a href="#">밀크</a>
+      </li>
+      <li>
+        <a href="#">커피</a>
+      </li>
+    </ul>
+  </body>
+</html>
