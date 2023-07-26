@@ -1,0 +1,22 @@
+.footer {
+  background-color: azure;
+}
+
+.jumbotron {
+  /* 절대경로 */
+  /*  background-image: url(/02_CSS/bs4/img/road.jpg); */
+  /* 상대경로 */
+  background-image: url(../img/road.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+a.page-link {
+  border-width: 0px;
+}
+
+.avatar-sm {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+}
