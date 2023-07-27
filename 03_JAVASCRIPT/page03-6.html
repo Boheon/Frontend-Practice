@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script>
+      let x = prompt("몇번 출력할까요? "); //숫자+text일시 숫자만 추려내어 인식,  text+숫자일경우 숫자를 인식못함(NaN Not a Number 나옴)
+      console.log(`x: ${x}`);
+      x = parseInt(x);
+      console.log(`x: ${x}`);
+
+      for (let i = 0; i < x; i++) {
+        document.write('<img src= "img/druid.jpg" width="10"><br>');
+        //작은따옴표 안에 큰따옴표가 있어야 따옴표가 엉키지 않는다
+
+        //document.write("<img src= \"img/druid.jpg\" width=\"10\"><br>");
+        //큰따옴표앞에\를 붙이면 데이터 표시가 된다
+
+        //document.write(`환영합니다. ${i} <br>`);
+      }
+    </script>
+  </head>
+  <body></body>
+</html>
