@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29aa6207-c5d5-415d-bc70-824ea4423791" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/02_java/java_study/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_java/java_study/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_java/java_study/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_java/java_study/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_java/java_study/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_java/java_study/java_study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_java/java_study/src/javabasic/Hi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_HTML/Kalimba.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_HTML/img/팽귄.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_HTML/page1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_HTML/page10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_HTML/page11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_HTML/page12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_HTML/page13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_HTML/page2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_HTML/page3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_HTML/page4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_HTML/page5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_HTML/page6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_HTML/page7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_HTML/page8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_HTML/page9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_HTML/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_HTML/wildlife.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/05_total.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/06_tag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/07_class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/08_id.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/a_hover.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/bs4/background.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/bs4/bs4_template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/bs4/button.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/bs4/card.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/bs4/containter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/bs4/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/bs4/grid1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/bs4/grid2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/bs4/image.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/bs4/image2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/bs4/img/road.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/bs4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/bs4/jumbotron.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/bs4/login copy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/bs4/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/bs4/menu1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/bs4/pagination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/bs4/table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/css/out.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/css/summer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/display.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/float.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/fontweight.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/image-float.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/nth.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_CSS/position.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/alert.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/array.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/array2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/img/druid.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/js/out.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/kakaomap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/object_create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/object_this.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/page00.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/page02-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/page02-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/page02-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/page03-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/page03-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/page03-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/page03-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/page03-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/page03-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/page03-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/page04-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/page04-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/page04-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/page16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/page18.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/test01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/test02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/test03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/test04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JAVASCRIPT/tofixed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_jquery/img/druid.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_jquery/img/팽귄.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_jquery/page00.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_jquery/page01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_jquery/page02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_jquery/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TK4JeMGYbhHwPy8vbGfCer9trc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/backend-workspace/02_java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="29aa6207-c5d5-415d-bc70-824ea4423791" name="변경" comment="" />
+      <created>1690778367933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690778367933</updated>
+    </task>
+    <servers />
+  </component>
+</project>

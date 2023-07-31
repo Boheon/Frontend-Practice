@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+    <script>
+      $(function () {
+        //console.log($("div")); //div태그를 모두 잡아낸다
+        let text = $("div").text();
+
+        //console.log(text);
+        $("div").text("새로운 텍스트");
+
+        $("#id").val();
+        //$("#id").val("mySQL");
+
+        //console.log($("#id2").val()); //없는 id라도 오류가 나오지 않는다.
+
+        console.log($("img").attr("src"));
+        $("img").attr("src", "img/팽귄.jpg");
+      });
+    </script>
+  </head>
+  <body>
+    <div>현재 텍스트1</div>
+    <div>현재 텍스트2</div>
+    <input id="id" value="oracle" />
+    <img src="img/druid.jpg" width="100" />
+  </body>
+</html>

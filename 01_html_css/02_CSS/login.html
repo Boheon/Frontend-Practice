@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      input:disabled {
+        background-color: gray;
+      }
+      input:focus {
+        background-color: greenyellow;
+      }
+      button {
+        color: red; /*글자색*/
+        background-color: aqua;
+        font-weight: bold; /*글자굵기*/
+      }
+
+      input[type="text"] {
+        background: red;
+        color: white;
+        font-size: 30px;
+      }
+      input[type="password"] {
+        background: pink;
+        color: blue;
+        font-size: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <!--나중에 불러와지는 input type text의 배경색이 지정됨 -->
+    userid: <input type="text" disabled /><br />
+    pass: <input type="password" /><br />
+    <button>로그인하기</button>
+  </body>
+</html>
